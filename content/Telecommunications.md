@@ -1,4 +1,0 @@
----
-title: Telecommunications
-tag: seed
----
