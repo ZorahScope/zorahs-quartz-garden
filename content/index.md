@@ -1,12 +1,14 @@
 ---
 title: Zorah's Digital Garden
+date: 2023-12-10
 ---
 
-# Welcome  
+# Welcome
 
+Hey there, I'm Zorah! Welcome to my cozy corner of the internet – excited to have you here! :3
 
-I'm Zorah. This is my little corner of the internet - I hope you enjoy your visit :3
+I'm currently knee-deep in the world of [[Web Development]], and it's been quite a journey. Picture this: a decade in Telecommunications and [[IT]], I like to joke that my career path is a bit like climbing up the OSI model. I began by running Ethernet & Fiber, installing all sorts of network devices, and eventually found myself supporting server/network infrastructure and end-users as a techie in the MSP industry.
 
-Currently, I'm invested in the world of [[Web Development]]. Coming from a decade in Telecommunications and [[IT]]. I often joke that my career progression is like climbing up the OSI model. Since I started from running Ethernet & Fiber, installing all kinds of network devices, to supporting server/network infrastructure and end-users as a technician in the [MSP](https://www.forbes.com/advisor/business/what-is-managed-service-provider/) industry. I'm also interested in [[Entreprenuership]] and using that as a vehicle to become a more practical and effective developer. 
+But guess what? I've got my eyes on more than just tech. [[Entrepreneurship]] is my other passion, and I'm using it as a vehicle to become a hands-on and effective developer. Now, after spending years installing and troubleshooting software for others, I'm on a new adventure – building it myself and participating in open source. 
 
-Now I'm building my own software after years of installing or troubleshooting them for others. This is not a blog, but a digital garden that's just getting started after learning about this concept from [Maggie Appleton](https://maggieappleton.com/) several years ago. Excited to build and share my experiences in public with anyone who's interested. 
+This isn't your typical blog; think of it as a [digital garden](https://maggieappleton.com/garden-history) that's just starting to bloom. I stumbled upon this concept a few years back from [Maggie Appleton](https://maggieappleton.com/), and I'm stoked to cultivate and share my experiences in public. Whether you're a fellow developer, tech enthusiast, or just curious about the journey – stick around, and let's explore this together! 🌱
