@@ -7,7 +7,7 @@ date: 2023-12-10
 
 Hello there, I'm Zorah! Welcome to my corner of the internet – glad to have you here! :3
 
-This is not a blog, this is my Digital Garden 🌱. Here you'll find plots dedicated to several of my interests such as [[Web Development]], [[IT |IT ( Linux Sysadmin / Networking )]], and [[Entrepreneurship]]. 
+This is not a blog, this is my Digital Garden 🌱. Here you'll find plots dedicated to several of my interests such as [[Web Development]], [[IT]], and [[Entrepreneurship]]. 
 
 I stumbled upon this concept after hearing Maggie Appleton speak about it in a podcast several years ago. The idea appealed to me much more than what the _blog_ has become nowadays. It seemed like a more sustainable way to both consistently write online and learn in public without the pressure of perfectionism. While also facilitating growth, exploration, and joy from sharing with others. 
 
